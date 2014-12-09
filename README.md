@@ -4,10 +4,10 @@ http://webdesign.tutsplus.com/tutorials/what-you-should-know-about-html-email--w
 
 http://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770
 
-https://dribbble.com
-
 https://tinypng.com/
 
 http://www.email-standards.org/
 
 http://html-color-codes.info/
+
+https://www.iconfinder.com
