@@ -11,3 +11,5 @@ http://www.email-standards.org/
 http://html-color-codes.info/
 
 https://www.iconfinder.com
+
+![alt tag](https://raw.githubusercontent.com/thehme/email/master/images/customHtmlEmailTemplate.PNG)
